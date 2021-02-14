@@ -25,8 +25,6 @@ Repository for CMC MSU course "Computer Graphics"
 Итого 14 баллов
 
 
-На неделе проект будет дополняться
-
 
 
 
